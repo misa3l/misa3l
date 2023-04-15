@@ -9,7 +9,7 @@
 - ✌ If I don't know what it is, I'll learn it.
 ---
 
-### Languages:
+#### Languages:
 <p float="left">
 <img style="padding:5px;" align="center" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img style="padding:5px;" align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -55,10 +55,10 @@
 
 ---
 
-### 📈 Github Stats
+#### 📈 Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=misa3l&theme=default&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=misa3l&theme=default)
 
-### 👀 Profile Views
+#### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=misa3l&color=blue&label=PROFILE+VIEWS)
 
 
