@@ -2,7 +2,6 @@
 
 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm3ndZzsSiOvacQd9Mby8jkt1Xg1GvEOJ4QXoXsdo8K2QPUsBU">
 
-### Bio
 - 📱 Android (Kotlin, Jetpack Compose, Android Development & Software Architecture)
 - 💻 Back-End (Python, PHP, NodeJS)
 - 📖 Currently focused on mobile app development with Kotlin
