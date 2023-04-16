@@ -33,6 +33,8 @@
 #### 📈 Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=misa3l&theme=default&&include_all_commits=true&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misa3l&hide_progress=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misa3l&mode=weekly)
+
 #### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=misa3l&color=blue&label=PROFILE+VIEWS)
 
