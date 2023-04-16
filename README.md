@@ -8,13 +8,13 @@
 
 #### Languages:
 
-![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,php,py,perl,html,css,sass&theme=light)
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,php,py,html,css,sass&theme=light)
 
 ---
 
 #### Frameworks/Platforms:
 
-![My Skills](https://skillicons.dev/icons?i=express,react,nodejs,cloudflare&theme=light)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,react&theme=light)
 
 ---
 
@@ -26,7 +26,7 @@
 
 #### Tools:
 
-![My Skills](https://skillicons.dev/icons?i=androidstudio,git,github,githubactions,gitlab,vscode,neovim,vim,postman,idea,linux,nginx,gradle,bash,docker,eclipse&theme=light)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,git,github,gitlab,vscode,neovim,vim,postman,idea,linux,nginx,gradle,bash&theme=light)
 
 ---
 
@@ -34,7 +34,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=misa3l&theme=default&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=misa3l&theme=default)
-
 
 #### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=misa3l&color=blue&label=PROFILE+VIEWS)
