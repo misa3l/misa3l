@@ -8,7 +8,7 @@
 
 #### Languages:
 
-![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,php,py,html,css,sass&theme=light)
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,go,php,py,html,css,sass&theme=light)
 
 ---
 
