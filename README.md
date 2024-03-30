@@ -1,7 +1,7 @@
 ### Hi, I'm misael 👋
 
 - 📱 Android (Kotlin, Jetpack Compose, Android Development & Software Architecture)
-- 💻 Back-End (Python, PHP, NodeJS)
+- 💻 Back-End (NodeJS, Go, Python, PHP)
 - 📖 Currently focused on mobile app development with Kotlin
 - ✌ If I don't know what it is, I'll learn it.
 ---
